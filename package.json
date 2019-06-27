@@ -1,0 +1,13 @@
+{
+  "name": "customer_cli",
+  "version": "1.0.0",
+  "description": "Customer management system",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepjyoti Chetia",
+  "license": "ISC"
+}
